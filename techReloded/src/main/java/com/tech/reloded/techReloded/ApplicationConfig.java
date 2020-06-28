@@ -21,10 +21,10 @@ public class ApplicationConfig {
 	public static final String AUTHOR = "Gaurav";
 
 	/** The Constant WEBSITE_ADDR. */
-	public static final String WEBSITE_ADDR = "https://www.google.com";
+	public static final String WEBSITE_ADDR = "https://tech-reloded.blogspot.com/";
 
 	/** The Constant LICENCE_URL. */
-	public static final String LICENCE_URL = "https://www.google.com";
+	public static final String LICENCE_URL = "https://github.com/gauravnewton/Spring-Swagger2";
 	
 	/** The Constant CONTACT_MAIL. */
 	public static final String CONTACT_MAIL = "gaurav.mute@gmail.com";
