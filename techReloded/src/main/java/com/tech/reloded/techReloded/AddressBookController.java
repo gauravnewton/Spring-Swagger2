@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 @RequestMapping("/api")
-public class AddressBookResource {
+public class AddressBookController {
 	
 	/** The contacts. */
 	ConcurrentHashMap<String, Contact> contacts = new ConcurrentHashMap<>();
